@@ -4,15 +4,15 @@
 Los datos primitivos de Java son: byte, short, int, long, float, double, char, boolean
 
 # 2. ¿Cómo funcionan las estructuras de control de flujo como if, else, switch y bucles en Java?
--if/else: Evalúa una condición booleana y si es verdadera, ejecuta un bloque de código de lo contrario puede ejecutar otro bloque alternativo
+- if/else: Evalúa una condición booleana y si es verdadera, ejecuta un bloque de código de lo contrario puede ejecutar otro bloque alternativo
 
--switch: Evalúa una expresión y según su valor, dirige la ejecución a uno de varios bloques definidos en cada case.
+- switch: Evalúa una expresión y según su valor, dirige la ejecución a uno de varios bloques definidos en cada case.
 
--for: Ideal para repetir un bloque de código un número determinado de veces. Se define una variable de control, una condición y una actualización
+- for: Ideal para repetir un bloque de código un número determinado de veces. Se define una variable de control, una condición y una actualización
 
--while: Ejecuta el bloque de código mientras una condición se mantenga verdadera
+- while: Ejecuta el bloque de código mientras una condición se mantenga verdadera
 
--do-while: Similar al while, pero garantiza que el bloque de código se ejecute al menos una vez, ya que la condición se evalúa al final de la iteración
+- do-while: Similar al while, pero garantiza que el bloque de código se ejecute al menos una vez, ya que la condición se evalúa al final de la iteración
 
 # 3. ¿Por qué es importante usar nombres significativos para variables y métodos?
 Usar nombres significativos facilita la comprensión del código así cualquier programador puede entender rápidamente el propósito de cada variable o método. Esto mejora la legibilidad, el mantenimiento y la depuración del programa
